@@ -1,5 +1,3 @@
-#Bem vindo ao meu portfólio!!
+# 🌟 Bem-vindo!
 
-###Ainda está tudo muito simples porque estou reciclando conteúdo e relembrando coisas que esqueci... 
-
--Em beve trarei esse portfólio em melhores versões, com novos estilos e bibliotecas!
+- Estou em uma fase de reciclagem de conhecimento e reformulação do meu portfólio. Fique à vontade para explorar e acompanhar minha jornada de aprendizado e criação. 🚀
